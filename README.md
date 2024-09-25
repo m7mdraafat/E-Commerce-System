@@ -1,6 +1,6 @@
 # E-Commerce-System
 
-# =>>> E-Commerce System Functional Requirements
+# =>>> E-Commerce System Functional Requirements Use cases
 
 ## 1. User Management
 
