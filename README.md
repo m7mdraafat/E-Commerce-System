@@ -1,5 +1,5 @@
 # <span style="color:#007BFF;"> E-Commerce-System </span>
-## **1. Functional Requirements**
+## <span style="color:#28a745;">1. Functional Requirements</span>
 ### 1.1 User Management
 - Registration/Login System: Users can register and create an account using email and password, or through social media login (e.g., Google, Facebook).
 - User Profiles: Users can edit their profile information (name, email, shipping addresses).
