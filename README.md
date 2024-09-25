@@ -1,5 +1,5 @@
 # E-Commerce-System
-## 1. Functional Requirements
+## **1. Functional Requirements**
 ### 1.1 User Management
 - Registration/Login System: Users can register and create an account using email and password, or through social media login (e.g., Google, Facebook).
 - User Profiles: Users can edit their profile information (name, email, shipping addresses).
