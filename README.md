@@ -157,5 +157,6 @@
 
 
 ## UML Diagrams for Pixels-Store
-- [View PDF](C:\Users\Mohamed Raafat\Downloads\pixels-store.drawio (5).pdf)
+- [View PDF](pixels-store.drawio (5).pdf)
+
 
