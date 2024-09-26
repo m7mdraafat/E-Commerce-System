@@ -154,4 +154,7 @@
 
 ### 2.2 Customer Analytics
 - As an Admin, I can access analytics about customer behavior, such as most viewed products, average cart value, and cart abandonment rates.
-"""
+
+
+## UML Diagrams for Pixels-Store
+- [Download PDF]("C:\Users\Mohamed Raafat\Downloads\pixels-store.drawio (5).pdf")
